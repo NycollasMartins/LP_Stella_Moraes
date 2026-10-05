@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editores
+*.swp
+.idea/
+
+# Logs
+*.log
